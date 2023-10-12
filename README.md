@@ -1,18 +1,36 @@
-<h1 align="center">Olá , sou Bruno Couto</h1>
-<h3 align="center">Olá 👋, tudo bem? Agradeço por compartilhar um pouco sobre sua trajetória profissional e suas habilidades. 
-  É ótimo saber que você está sempre em busca de novos desafios e oportunidades para aplicar seus conhecimentos e contribuir para o crescimento das empresas. 
-  Para melhorar a apresentação em poucas linhas, sugiro que você destaque suas principais habilidades e experiências. Por exemplo, você pode mencionar que é um profissional versátil com conhecimentos em engenharia de software, desenvolvimento back-end, ciência de dados e nuvem. Além disso, pode destacar sua formação em Engenharia de Software e seu curso técnico em Mecatrônica como base sólida em tecnologia e automação. Também é importante mencionar que você está em uma fase de transição de carreira e buscando se aprimorar em novas áreas do mercado de tecnologia, como Desenvolvimento de Software Back End, Cientista de Dados e AWS Certified Cloud Practitioner. Essa especialização irá permitir que você contribua ainda mais em projetos de desenvolvimento de software e garanta a eficiência e segurança dos projetos em que estiver envolvido. Espero ter ajudado! Se tiver mais alguma dúvida ou precisar de ajuda com algo mais específico, é só me perguntar. Um desenvolvedor frontend apaixonado da Índia</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocouto&label=Profile%20views&color=0e75b6&style=flat" alt="brunocouto" /> </p><h3 align="left">Connect with me:</h3><p align="left">
+### Olá ! eu sou Bruno Couto 🖐🏾
+
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-couto-57103355/)
+[![blog](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](brunocoutoengenheirodesoftware@gmail.com)
+
+### Tecnologias que uso no meu dia
+
+<div style="display: inline_block"><br/> 
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+</div>
+
+### Frameworks Plataformas e Bibliotecas
+<div style="display: inline_block"><br/> 
+<img align="center" alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img align="center" alt="amazon aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</div>
+
+### Tecnologia e Ferramentas
+<div style="display: inline_block"><br/> 
+<img align="center" alt="express.js" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+### Banco de Dados
+<div style="display: inline_block"><br/> 
+<img align="center" alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div><br/>
 
 
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocouto&show_icons=true&theme=dracula)
 
-
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bruno-couto-57103355/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bruno-couto-57103355/" height="30" width="40" /></a></p><h3 align="left">Idiomas e Ferramentas:</h3>
-
-
-
-<p align="esquerda"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunocouto&show_icons=true&locale=en&layout=compact" alt="brunocouto" /></p><p>
-
-&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunocouto&show_icons=true&locale=en" alt="brunocouto" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunocouto&" alt="brunocouto" /></p>
+Formado em Bacharel em Engenharia de Software e técnico em mecatrônica . Apaixonado por tecnologia , educação e  por mudar a vida das pessoas através da programação .
